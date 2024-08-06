@@ -10,7 +10,9 @@
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
   ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx)
+  ![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
 
 ### learning...
 
   ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind)
