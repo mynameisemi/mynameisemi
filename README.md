@@ -1,4 +1,4 @@
-## proficient in...
+## Proficient in...
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -11,8 +11,9 @@
   ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
   ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx)
   ![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
-
-### learning...
+  ![cmake](https://img.shields.io/badge/CMake-black?style=flat-square&logo=cmake)
+  
+### Learning...
 
   ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
   ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind)
