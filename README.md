@@ -12,7 +12,8 @@
   ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx)
   ![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
   ![cmake](https://img.shields.io/badge/CMake-black?style=flat-square&logo=cmake)
-  
+    ![cmake](https://img.shields.io/badge/Meson-black?style=flat-square&logo=meson)
+    
 ### Learning...
 
   ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
